@@ -1,0 +1,1 @@
+print("Bonjour à l'écran")
